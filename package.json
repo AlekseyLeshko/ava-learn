@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/AlekseyLeshko/ava-learn#readme",
   "devDependencies": {
-    "ava": "^0.16.0"
+    "ava": "^0.16.0",
+    "ava-spec": "^1.0.1"
   }
 }
