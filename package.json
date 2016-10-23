@@ -1,0 +1,20 @@
+{
+  "name": "ava-learn",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlekseyLeshko/ava-learn.git"
+  },
+  "keywords": [],
+  "author": "Aleksey Leshko <alekseyleshko@gmail.com> (https://github.com/AlekseyLeshko)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlekseyLeshko/ava-learn/issues"
+  },
+  "homepage": "https://github.com/AlekseyLeshko/ava-learn#readme"
+}
