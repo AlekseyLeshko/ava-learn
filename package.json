@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AlekseyLeshko/ava-learn/issues"
   },
-  "homepage": "https://github.com/AlekseyLeshko/ava-learn#readme"
+  "homepage": "https://github.com/AlekseyLeshko/ava-learn#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
 }
