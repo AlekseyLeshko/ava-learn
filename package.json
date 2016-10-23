@@ -21,5 +21,11 @@
     "ava": "^0.16.0",
     "ava-spec": "^1.0.1",
     "babel-preset-es2015": "^6.16.0"
+  },
+  "ava": {
+    "babel": "inherit",
+    "require": [
+      "babel-register"
+    ]
   }
 }
